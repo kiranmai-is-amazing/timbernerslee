@@ -1,0 +1,44 @@
+#home
+{
+    text-align: center;
+    
+}
+.profile{
+    height: 400px;
+    margin-top: 15px;
+}
+#bio{
+    text-align: center;
+}
+p{
+    color:darkred;
+    font-family: 'Kaushan Script', cursive;
+    max-width: 1003px;
+    margin:8px auto ;
+}
+body{
+    color:darkred;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    top:15px;
+    right:30px;
+    cursor: pointer;
+}
+.links{
+    float:left ;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+font-size:24px ;
+color: black;
+font-family: 'Julee', cursive;
+}
+.links:hover{
+    font-size: 30px;
+    color: darkred;
+}
